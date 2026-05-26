@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+
+# Generated job scripts are user/project specific.
+jobID_*.sh
+run_generated_imc_job.sh
+
+# Local editor and OS files.
+.DS_Store
+.vscode/
+.idea/
